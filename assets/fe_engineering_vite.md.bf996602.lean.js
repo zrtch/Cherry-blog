@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,O as l}from"./chunks/framework.0d343703.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fe/engineering/vite.md"}'),p={name:"fe/engineering/vite.md"},o=l("",165),e=[o];function t(c,r,D,y,i,F){return n(),a("div",null,e)}const u=s(p,[["render",t]]);export{A as __pageData,u as default};
