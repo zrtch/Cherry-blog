@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as e,O as l}from"./chunks/framework.48867dda.js";const S=JSON.parse('{"title":"优秀书籍推荐","description":"","frontmatter":{},"headers":[],"relativePath":"fe/article/books.md"}'),t={name:"fe/article/books.md"},r=l("",8),c=[r];function o(s,n,h,p,u,_){return e(),i("div",null,c)}const v=a(t,[["render",o]]);export{S as __pageData,v as default};
