@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,O as r}from"./chunks/framework.48867dda.js";const f=JSON.parse('{"title":"个人可视化项目","description":"","frontmatter":{},"headers":[],"relativePath":"fe/visualization/index.md"}'),s={name:"fe/visualization/index.md"},o=r("",4),n=[o];function i(c,_,p,l,d,h){return a(),t("div",null,n)}const u=e(s,[["render",i]]);export{f as __pageData,u as default};
