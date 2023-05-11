@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,O as o}from"./chunks/framework.0aadff21.js";const A=JSON.parse('{"title":"踩坑合集","description":"","frontmatter":{},"headers":[],"relativePath":"fe/problem/react.md"}'),e={name:"fe/problem/react.md"},l=o("",3),t=[l];function p(r,c,y,D,F,i){return n(),a("div",null,t)}const d=s(e,[["render",p]]);export{A as __pageData,d as default};
