@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,O as r}from"./chunks/framework.48867dda.js";const f=JSON.parse('{"title":"前端工具库","description":"","frontmatter":{},"headers":[],"relativePath":"fe/resource/fetools.md"}'),o={name:"fe/resource/fetools.md"},i=r("",42),l=[i];function s(h,n,c,p,b,u){return a(),t("div",null,l)}const k=e(o,[["render",s]]);export{f as __pageData,k as default};
