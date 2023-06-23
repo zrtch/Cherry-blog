@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,O as r}from"./chunks/framework.48867dda.js";const k=JSON.parse('{"title":"工具合集","description":"","frontmatter":{},"headers":[],"relativePath":"fe/resource/tool.md"}'),o={name:"fe/resource/tool.md"},h=r("",64),s=[h];function l(i,p,n,c,b,d){return t(),e("div",null,s)}const m=a(o,[["render",l]]);export{k as __pageData,m as default};
