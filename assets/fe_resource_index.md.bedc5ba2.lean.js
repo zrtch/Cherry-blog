@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,O as t}from"./chunks/framework.48867dda.js";const u=JSON.parse('{"title":"常用网站","description":"","frontmatter":{},"headers":[],"relativePath":"fe/resource/index.md"}'),o={name:"fe/resource/index.md"},h=t("",27),i=[h];function n(l,c,s,p,d,f){return r(),e("div",null,i)}const b=a(o,[["render",n]]);export{u as __pageData,b as default};
