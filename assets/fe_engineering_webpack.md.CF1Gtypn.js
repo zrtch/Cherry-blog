@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BbFa6TS3.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fe/engineering/webpack.md","filePath":"fe/engineering/webpack.md"}'),n={name:"fe/engineering/webpack.md"};function r(c,o,i,s,p,f){return a(),t("div")}const m=e(n,[["render",r]]);export{d as __pageData,m as default};
