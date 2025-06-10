@@ -1,0 +1,1 @@
+import{_ as i,c as l,o as a,ae as s}from"./chunks/framework.BbFa6TS3.js";const u=JSON.parse('{"title":"MCP","description":"","frontmatter":{},"headers":[],"relativePath":"fe/ai/mcp.md","filePath":"fe/ai/mcp.md"}'),e={name:"fe/ai/mcp.md"};function d(r,t,h,n,o,p){return a(),l("div",null,t[0]||(t[0]=[s("",37)]))}const E=i(e,[["render",d]]);export{u as __pageData,E as default};
