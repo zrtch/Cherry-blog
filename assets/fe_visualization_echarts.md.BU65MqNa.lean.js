@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BbFa6TS3.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fe/visualization/echarts.md","filePath":"fe/visualization/echarts.md"}'),s={name:"fe/visualization/echarts.md"};function r(o,c,i,n,f,p){return a(),t("div")}const l=e(s,[["render",r]]);export{d as __pageData,l as default};
